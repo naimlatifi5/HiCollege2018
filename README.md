@@ -20,5 +20,16 @@ Welcome to HICollege HIQ GIT 2018
 
   #Session3- GIT branching
 
+
+  #Session5- GIT GUI tool (SourceTree)
+  - Discard changes with sourceTree
+  - Add to staging area with sourceTree
+  - Create a branch with sourceTree
+  - Pull with sourceTree
+  - Fetch with sourceTree
+  - Search commits sourceTree
+  - Checkout a remote branch sourceTree
+  - Rebase with sourceTree
+
 GIT commands guideline :
 http://growtogether.se/

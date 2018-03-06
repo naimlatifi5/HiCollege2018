@@ -9,16 +9,20 @@
 <div class="box box-green">
   1
 </div>
-<<<<<<< HEAD
+<div class="box box-pink">2</div>
 <div class="box box-purple">
   3
-=======
-<div class="box box-pink">
-  2
 </div>
 <div class="box box-green">
   4
->>>>>>> feature/box2
+</div>
+<<<<<<< HEAD
+<div class="box box-dimgrey">
+  6
+=======
+<div class="box box-yellow">
+  5
+>>>>>>> added README AND BOX 5
 </div>
 </body>
 </html>
