@@ -27,6 +27,7 @@ Welcome to HICollege HIQ GIT 2018
    - Count number of commits between branches
    - Rewriting history <#commitId>
    - Undoing commit changes with git revert
+   - GIT cherry pick #commitID
 
 #Session4- GIT remote
    - GIT clone
